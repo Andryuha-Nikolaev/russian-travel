@@ -6,7 +6,7 @@ Russian Travel - проект студента "Яндекс Практикум"
 
 **Ссылка на сайт**
 
-https://andryuha-nikolaev.github.io/russian-travel/
+* https://andryuha-nikolaev.github.io/russian-travel/
 
 **Макет**
 

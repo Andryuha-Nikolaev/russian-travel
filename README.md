@@ -14,8 +14,8 @@ Russian Travel - проект студента "Яндекс Практикум"
 
 **Технологии**
 
-*Flexbox
+* Flexbox
 
-*Grid Layout
+* Grid Layout
 
-*Nested БЭМ
+* Nested БЭМ

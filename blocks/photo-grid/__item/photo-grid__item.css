@@ -1,3 +1,9 @@
 .photo-grid__item {
   max-width: 100%;
 }
+
+.photo-grid__item:hover {
+  cursor: pointer;
+  opacity: .8;
+  transition: opacity .2s linear;
+}
